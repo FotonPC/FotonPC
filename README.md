@@ -1,3 +1,6 @@
+FotonPC
+=======
+
 - 👋 Hi, I’m @FotonPC
 - 👀 I’m interested in geology, chemistry, programming
 - 🌱 I’m currently learning C++
